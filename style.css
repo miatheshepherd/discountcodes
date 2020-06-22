@@ -27,7 +27,9 @@ body {
 .packleashes {
     width: 150px;
 }
-
+.mydigitalpet {
+    width: 150px;
+}
 a {
     display: block;
     max-width: 400px;
